@@ -3,6 +3,9 @@
 #### PREDATOR - FOXES
 #### FOODS/ENVIRONMENT - GRASSLANDS wt CARROT PLOTS
 
+![Uploading image.png…]()
+
+
 ## Members
 #### KIELO MERCADO
 #### VALEN SALIG
