@@ -1,1 +1,11 @@
-# cmplxy-prey-predator
+# Complexy Prey-Predator
+PREY - RABBITS
+PREDATOR - FOXES
+FOODS/ENVIRONMENT - GRASSLANDS wt CARROT PLOTS
+
+## Members
+#### KIELO MERCADO
+#### VALEN SALIG
+#### GABRIELLE NAVAL
+#### RENZ LUCENA
+#### JAIME MANALO
