@@ -1,8 +1,3 @@
-# Complexy Prey-Predator
-#### PREY - RABBITS
-#### PREDATOR - FOXES
-#### FOODS/ENVIRONMENT - GRASSLANDS wt CARROT PLOTS
-
 # Async Learning Task: Prey-Predator Ecosystems
 
 ## Description
