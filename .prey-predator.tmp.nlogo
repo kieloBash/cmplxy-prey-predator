@@ -142,7 +142,7 @@ end
 to my-update-plots
   set-current-plot "Food over Time"
   set-current-plot-pen "grass"
-  plot count patches with [ pcolor = green ] / 20 ;scaling
+  plot count patches with [ pcolor = green ] / 0
 
   set-current-plot-pen "carrot"
   plot count patches with [ pcolor = scale-color orange (10 - 3) -10 20 ]
